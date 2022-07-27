@@ -1,0 +1,23 @@
+.new-bg-info{
+    background-color:#fceae8;
+}
+.new2-bg-info{
+    background-color: #ffa500;
+}
+.new3-bg-info{
+    background-color: #da70d6;
+}
+.new-bg-warning{
+    background-color: #0000ff;
+}
+.categories img{
+    width: 100px;
+}
+.new-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    width: 40%;
+}
